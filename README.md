@@ -4,7 +4,7 @@
 
 **ML / AI engineer.** I build retrieval and forecasting systems, then measure them hard enough to find out where they don't work.
 
-📍 Boulder, CO
+📍 Denver, CO
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhiram-m-v-4a0413182/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiram2000@gmail.com)
