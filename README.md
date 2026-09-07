@@ -74,4 +74,4 @@ A company URL in, a full marketing package out: research dossier, brand profile,
 
 **Open to:** ML Engineer · AI Engineer · Data Scientist · MLOps roles
 
-Best way to reach me: [LinkedIn](ADD_YOUR_LINKEDIN_URL) or [ADD_YOUR_EMAIL](mailto:ADD_YOUR_EMAIL)
+Best way to reach me: [LinkedIn](https://www.linkedin.com/in/abhiram-m-v-4a0413182) or [email](mailto:abhiram2000@gmail.com)
