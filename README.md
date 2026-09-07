@@ -1,8 +1,14 @@
 # Abhiram M V
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhiram%20M%20V&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20/%20AI%20Engineer&descAlignY=55&descSize=20&fontColor=ffffff)
+
 **ML / AI engineer.** I build retrieval and forecasting systems, then measure them hard enough to find out where they don't work.
 
-📍 Boulder, CO · [LinkedIn](https://www.linkedin.com/in/abhiram-m-v-4a0413182/) · [Email](mailto:abhiram2000@gmail.com)
+📍 Boulder, CO
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhiram-m-v-4a0413182/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiram2000@gmail.com)
+
 
 ---
 
@@ -51,4 +57,7 @@
 
 **Open to:** ML Engineer · AI Engineer · Data Scientist · MLOps
 
-[LinkedIn](https://www.linkedin.com/in/abhiram-m-v-4a0413182/) · [Email](mailto:abhiram2000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhiram-m-v-4a0413182/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiram2000@gmail.com)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
